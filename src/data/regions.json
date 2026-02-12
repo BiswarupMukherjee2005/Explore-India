@@ -1,0 +1,46 @@
+{
+  "regions": [
+    {
+      "id": "north-india",
+      "name": "North India",
+      "description": "A tapestry of snow-capped mountains, golden deserts, and vibrant cultures",
+      "states": ["Jammu and Kashmir", "Himachal Pradesh", "Punjab", "Haryana", "Delhi", "Uttarakhand", "Uttar Pradesh", "Rajasthan"],
+      "highlights": "Majestic Himalayas, historic forts, and spiritual heritage"
+    },
+    {
+      "id": "north-east-india",
+      "name": "North East India",
+      "description": "The land of seven sisters, pristine landscapes and tribal diversity",
+      "states": ["Assam", "Arunachal Pradesh", "Nagaland", "Manipur", "Mizoram", "Tripura", "Meghalaya", "Sikkim"],
+      "highlights": "Biodiversity hotspot, unique tribal cultures, and natural beauty"
+    },
+    {
+      "id": "east-india",
+      "name": "East India",
+      "description": "Where ancient temples meet colonial architecture and literary renaissance",
+      "states": ["West Bengal", "Odisha", "Bihar", "Jharkhand"],
+      "highlights": "Rich literary tradition, classical dance forms, and spiritual centers"
+    },
+    {
+      "id": "central-india",
+      "name": "Central India",
+      "description": "The heartland of India with dense forests and tribal heritage",
+      "states": ["Madhya Pradesh", "Chhattisgarh"],
+      "highlights": "Wildlife sanctuaries, ancient temples, and tribal art forms"
+    },
+    {
+      "id": "west-india",
+      "name": "West India",
+      "description": "From bustling metropolises to pristine beaches and vibrant festivals",
+      "states": ["Maharashtra", "Gujarat", "Goa"],
+      "highlights": "Commercial hubs, coastal beauty, and entrepreneurial spirit"
+    },
+    {
+      "id": "south-india",
+      "name": "South India",
+      "description": "Ancient Dravidian culture, magnificent temples, and tropical landscapes",
+      "states": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana"],
+      "highlights": "Classical arts, temple architecture, and serene backwaters"
+    }
+  ]
+}
